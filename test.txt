@@ -1,13 +1,5 @@
 Test
-<<<<<<< HEAD
-1
-2
-code3
-code4
-=======
 code1
 code2
-3
-4
->>>>>>> second commit from macpro
-
+code3
+code4
